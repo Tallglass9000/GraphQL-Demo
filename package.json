@@ -1,0 +1,24 @@
+{
+  "name": "graphql-demo",
+  "version": "0.1.0",
+  "description": "demo code from http://graphql.org/docs/getting-started/",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tallglass9000/GraphQL-Demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tallglass9000/GraphQL-Demo/issues"
+  },
+  "homepage": "https://github.com/Tallglass9000/GraphQL-Demo#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-graphql": "^0.5.1",
+    "graphql": "^0.6.0"
+  }
+}
